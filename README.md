@@ -1,0 +1,1 @@
+Aqui há alguns exercicios que fiz para a faculdade, muitos incompletos, muitos apenas como forma de estudo, mas aqui fica meu repositório. Tudo é em Python, mas pretendo expandir para Java em breve. (18/12/2025)
